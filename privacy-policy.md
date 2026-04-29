@@ -153,5 +153,4 @@ We may update this Privacy Policy from time to time. We will update the "Last Up
 For questions or requests:
 
 **Corvion Development**  
-Email: corvionunlimited@gmail.com  
-Website: https://corvion.com/codeswift
+Email: corvionunlimited@gmail.com
