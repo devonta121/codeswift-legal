@@ -484,8 +484,4 @@ We are committed to providing you with the best QR code and barcode scanning exp
 
 ---
 
-*For Privacy Policy, visit: https://corvion.com/codeswift/privacy*
-
-*For Support, visit: https://corvion.com/codeswift/support*
-
 *Last Revised: April 19, 2026*
