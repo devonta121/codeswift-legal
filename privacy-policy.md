@@ -1,8 +1,8 @@
 # Privacy Policy for CodeSwift
 
-**Last Updated:** April 19, 2026
+**Last Updated:** May 3, 2026
 
-**Effective Date:** April 19, 2026
+**Effective Date:** May 3, 2026
 
 ---
 
@@ -13,6 +13,7 @@ CodeSwift ("we," "our," or "us") is a QR code and barcode scanning application (
 **Key points (plain English):**
 - Your scan history and Pro data are stored locally on your device.
 - We do **not** run Cloud OCR. Camera frames are processed on-device for scanning.
+- If crash reporting is enabled, crash/ANR diagnostics may be sent to Firebase Crashlytics to help us fix reliability issues.
 - If ads are enabled, the Google Mobile Ads (AdMob) SDK may process identifiers (including the Advertising ID) to serve and measure ads.
 
 ---
@@ -50,8 +51,13 @@ CodeSwift ("we," "our," or "us") is a QR code and barcode scanning application (
 ### 3) Diagnostics (crash/ANR logs)
 
 The App may record limited diagnostic information (for example, a stack trace) to help troubleshoot crashes or "app not responding" (ANR) events.
-- These diagnostics are stored in the App’s internal storage on your device.
-- They are not automatically sent to us unless you choose to share them (for example, by emailing support).
+- Some diagnostics may be stored in the App’s internal storage on your device.
+- If crash reporting is enabled, the App may automatically send crash/ANR diagnostics to **Firebase Crashlytics** (a Google service) so we can monitor and fix reliability issues.
+
+Crash diagnostics may include:
+- Crash stack traces and exception messages
+- Device and app information (for example, OS version, device model, app version)
+- Timestamps and basic event context (for example, which feature was in use)
 
 ### 4) Advertising identifiers (only if ads are enabled)
 
@@ -84,6 +90,10 @@ If ads are enabled, CodeSwift integrates Google Mobile Ads (AdMob), which may pr
 If you purchase Pro, payments are processed by Google Play.
 - We do not receive your full payment card details.
 - Google Play may provide us purchase status (e.g., whether a subscription is active) to unlock Pro.
+
+### Firebase Crashlytics (crash reporting) (if enabled)
+If enabled, CodeSwift uses Firebase Crashlytics to collect crash and ANR diagnostics so we can improve stability and troubleshoot issues.
+- Google privacy policy: https://policies.google.com/privacy
 
 ---
 
@@ -120,6 +130,7 @@ We do not sell your personal information.
 
 Data may be shared/processed in the following cases:
 - **Open Food Facts:** barcode numbers for product lookup
+- **Firebase Crashlytics (if enabled):** crash/ANR diagnostics used to improve app stability
 - **AdMob (if enabled):** identifiers and ad interaction data for serving/measuring ads
 - **Google Play:** subscription purchase status to unlock Pro
 - **When you choose actions:** opening a URL uses your browser; sharing uses Android’s share sheet
@@ -153,4 +164,5 @@ We may update this Privacy Policy from time to time. We will update the "Last Up
 For questions or requests:
 
 **Corvion Development**  
-Email: corvionunlimited@gmail.com
+Email: corvionunlimited@gmail.com  
+
