@@ -1,8 +1,8 @@
 # Terms of Service for CodeSwift
 
-**Last Updated:** April 19, 2026
+**Last Updated:** May 3, 2026
 
-**Effective Date:** April 19, 2026
+**Effective Date:** May 3, 2026
 
 ---
 
@@ -204,6 +204,10 @@ CodeSwift integrates with third-party services:
 - AdMob and its partners may process identifiers (including the Advertising ID) and ad interaction data
 - Ad behavior and data use may vary based on your device settings and region
 
+**Firebase Crashlytics (crash reporting) (if enabled):**
+- The App may use Firebase Crashlytics (a Google service) to collect crash and ANR diagnostics to improve stability.
+- Subject to Google's terms and privacy policy.
+
 **Disclaimer:**
 We are not responsible for third-party service availability, accuracy, or changes. Third-party services may have their own terms and privacy policies.
 
@@ -404,8 +408,8 @@ For questions, concerns, or support regarding these Terms:
 
 **Corvion Development**  
 Email: corvionunlimited@gmail.com  
-Website: https://corvion.com/codeswift  
 Support: https://corvion.com/codeswift/support  
+
 
 **Legal Inquiries:**  
 Email: corvionunlimited@gmail.com
@@ -483,5 +487,9 @@ BY USING CODESWIFT, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS, UNDERSTAND T
 We are committed to providing you with the best QR code and barcode scanning experience while respecting your rights and privacy.
 
 ---
+
+*For Privacy Policy, visit: https://corvion.com/codeswift/privacy*
+
+*For Support, visit: https://corvion.com/codeswift/support*
 
 *Last Revised: April 19, 2026*
